@@ -4,7 +4,8 @@
 
 @theme {
     --font-primary: "Manrope", sans-serif;
-    --font-primary: "Sora", sans-serif;
+    --font-secondary: "Sora", sans-serif;
     --color-primary: #1A1A1A;
-    --color-secondary: #666666
+    --color-secondary: #666666;
+    --color-background: #0B5D1E;
 }
